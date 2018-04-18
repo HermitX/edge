@@ -57,8 +57,8 @@ function request(strName){
     return "";
 }
 
-$.CssFileLoad('/Tool/css/bootstrap.css');
-$.JsFileLoad('/Tool/js/bootstrap.min.js');
+$.CssFileLoad('/edge/into/Tool/css/bootstrap.css');
+$.JsFileLoad('/edge/into/Tool/js/bootstrap.min.js');
     //$.CssFileLoad('/Tool/css/bootstrap-table.min.css');
     //$.JsFileLoad('/Tool/js/bootstrap-table.min.js');
  
